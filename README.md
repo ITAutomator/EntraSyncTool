@@ -1,6 +1,6 @@
 ## EntraSyncTool
-User guide: [PDF](https://github.com/ITAutomator/M365-User-Properties-Report-and-Update/blob/main/M365%20User%20Properties%20Report%20and%20Update%20Readme.pdf)  
-Download: [ZIP](https://github.com/ITAutomator/M365-User-Properties-Report-and-Update/archive/refs/heads/main.zip)  
+User guide: [PDF](https://github.com/ITAutomator/EntraSyncTool/blob/main/EntraSyncTool%20Readme.pdf)  
+Download: [ZIP](https://github.com/ITAutomator/EntraSyncTool/archive/refs/heads/main.zip)  
 (or click the green *Code* button (above) and click *Download Zip*)   
 
 
