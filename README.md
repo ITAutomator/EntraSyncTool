@@ -10,4 +10,10 @@ This will sync AD accounts to match Entra accounts.
 
 
 **Usage**  
-Use this code in 2 phases to create a CSV report of the editable properties of your users in Entra. 
+This program considers Entra to be the read-only source on which AD depends.  
+All changes will be made in AD only.  
+  
+- Missing Entra users will be added to AD  
+- Extra AD users will be deleted  
+- Use the CSV to provide a list of users to exclude from this  
+
